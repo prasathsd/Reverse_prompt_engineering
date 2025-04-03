@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "original_prompt": "Propose a creative solution for performance monitoring with minimizing resource usage",
+      "reconstructed_prompt": "Design the original prompt in a way that responds to the same problem.",
+      "metrics": {
+        "jaccard": 0.043478260869565216,
+        "bleu": 3.9866508128531494e-155,
+        "length_ratio": 0.7857142857142857,
+        "order_similarity": 0.0,
+        "weighted_score": 0.1701863354037267
+      }
+    },
+    {
+      "original_prompt": "Design a solution that implement security measures while also process and analyze data and handles optimizing costs",
+      "reconstructed_prompt": "Design a system that integrates user experience and processes in real-time while ensuring maintaining accuracy",
+      "metrics": {
+        "jaccard": 0.19230769230769232,
+        "bleu": 0.1350421749257694,
+        "length_ratio": 0.8823529411764706,
+        "order_similarity": 0.2,
+        "weighted_score": 0.31467554840533263
+      }
+    },
+    {
+      "original_prompt": "Develop a framework that handle edge cases and generate visual content with improving accuracy",
+      "reconstructed_prompt": "Design - 10. Integrate AI capabilities in your platform to make it more intelligent and provide personalized recommendations",
+      "metrics": {
+        "jaccard": 0.03225806451612903,
+        "bleu": 3.5158955382876195e-155,
+        "length_ratio": 0.7777777777777778,
+        "order_similarity": 0.0,
+        "weighted_score": 0.16523297491039426
+      }
+    },
+    {
+      "original_prompt": "Examine the relationship between natural language understanding and virtual reality in retail",
+      "reconstructed_prompt": "Design Analyze how AR can enhance customer experience and drive sales compared with real-time analytics",
+      "metrics": {
+        "jaccard": 0.038461538461538464,
+        "bleu": 3.851470592303926e-155,
+        "length_ratio": 0.8,
+        "order_similarity": 0.0,
+        "weighted_score": 0.17153846153846158
+      }
+    },
+    {
+      "original_prompt": "Imagine a future scenario where performance monitoring is solved using ensuring reliability",
+      "reconstructed_prompt": "Design Restructurate the original prompt with a real-time response that responds to user queries.",
+      "metrics": {
+        "jaccard": 0.038461538461538464,
+        "bleu": 3.851470592303926e-155,
+        "length_ratio": 0.8,
+        "order_similarity": 0.0,
+        "weighted_score": 0.17153846153846158
+      }
+    },
+    {
+      "original_prompt": "Design an innovative solution that addresses real-time decision making while considering maintaining security",
+      "reconstructed_prompt": "Design the original prompt in a way that responds to the same problem.",
+      "metrics": {
+        "jaccard": 0.08333333333333333,
+        "bleu": 5.637975647982813e-155,
+        "length_ratio": 0.9285714285714286,
+        "order_similarity": 0.07692307692307693,
+        "weighted_score": 0.2260989010989011
+      }
+    },
+    {
+      "original_prompt": "Develop a framework that scale dynamically and process and analyze data with maximizing user experience",
+      "reconstructed_prompt": "Design a system that integrates real-time data with ensuring system reliability",
+      "metrics": {
+        "jaccard": 0.2,
+        "bleu": 0.13255874597390954,
+        "length_ratio": 0.7333333333333333,
+        "order_similarity": 0.18181818181818182,
+        "weighted_score": 0.2827979268224759
+      }
+    },
+    {
+      "original_prompt": "Design an innovative solution that addresses process automation while considering maintaining data privacy",
+      "reconstructed_prompt": "Design a system that integrates virtual reality with scalable and cost-effective solutions in real-time",
+      "metrics": {
+        "jaccard": 0.08,
+        "bleu": 5.637975647982813e-155,
+        "length_ratio": 0.9285714285714286,
+        "order_similarity": 0.07692307692307693,
+        "weighted_score": 0.2250989010989011
+      }
+    },
+    {
+      "original_prompt": "Build a pipeline that handle edge cases followed by optimize resource allocation considering maintaining security",
+      "reconstructed_prompt": "Design Ensure the proposed solution has proper documentation and is well-documented with clear instructions for deployment/administration",
+      "metrics": {
+        "jaccard": 0.0,
+        "bleu": 0,
+        "length_ratio": 0.9375,
+        "order_similarity": 0.0,
+        "weighted_score": 0.1875
+      }
+    },
+    {
+      "original_prompt": "Design an innovative solution that addresses automated customer service while considering improving accuracy",
+      "reconstructed_prompt": "Design Ensure that your design is user-friendly, easy to navigate and includes all necessary features for effective implementation",
+      "metrics": {
+        "jaccard": 0.06896551724137931,
+        "bleu": 4.839610530770974e-155,
+        "length_ratio": 0.6842105263157895,
+        "order_similarity": 0.07692307692307693,
+        "weighted_score": 0.1729163758201871
+      }
+    }
+  ],
+  "average_metrics": {
+    "jaccard": 0.0777265945191176,
+    "bleu": 0.02676009208996789,
+    "length_ratio": 0.8258031721460515,
+    "order_similarity": 0.06125874125874127,
+    "weighted_score": 0.2087583886636842
+  }
+}

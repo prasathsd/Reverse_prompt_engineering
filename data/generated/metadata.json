@@ -1,0 +1,15 @@
+{
+  "total_samples": 1000,
+  "prompt_types": {
+    "complex_question": 244,
+    "multi_step_command": 238,
+    "analytical_explanation": 243,
+    "creative_problem_solving": 275
+  },
+  "complexity_metrics": {
+    "avg_prompt_length": 94.54,
+    "avg_response_length": 153.847,
+    "unique_domains_covered": 17,
+    "unique_topics_covered": 20
+  }
+}
