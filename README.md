@@ -186,11 +186,3 @@ Comprehensive testing of model performance across categories.
 2. Create a feature branch
 3. Submit a pull request
 
-## License
-
-MIT License - See LICENSE file for details
-
-## Contact
-
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/rpe-model 
